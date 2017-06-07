@@ -1,2 +1,1 @@
-# MatchFacts
-This application gives us detailed facts and data related  to Matches played over the years!
+This uses huge amount of data provided in CSV files and creates two different 6 relations (6 to 2 reduction) and inserts the objects into MongoDB. This application can be further modified and reused for various cases of relations to documents reduction. Also, wrote several Mongo Scripts to query the database. 
